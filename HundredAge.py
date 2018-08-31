@@ -1,8 +1,6 @@
 # -*- coding: utf-8 -*-
 """
 Created on Fri Aug 31 14:47:03 2018
-
-@author: JUSTINE
 """
 """
 Create a program that asks the user to enter their name and their age. 
